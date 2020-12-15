@@ -1,0 +1,9 @@
+
+
+
+
+
+
+Write a function that takes in a list, and removes any items in the list that are strings. 
+Do not use .replace(),
+but you can use .filter() or .splice()

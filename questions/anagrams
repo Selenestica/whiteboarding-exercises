@@ -1,0 +1,9 @@
+
+
+
+
+
+
+Given two strings, return true if they are anagrams of one another. You CAN use methods. 
+
+(Words that are anagrams of one another contain the same letters, but in different order. e.g. "mary", "army")

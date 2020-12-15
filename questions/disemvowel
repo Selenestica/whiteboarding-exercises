@@ -1,0 +1,9 @@
+
+
+
+
+
+
+
+
+Write a function that removes all the vowels from a string. You can use methods, EXCEPT .filter()
